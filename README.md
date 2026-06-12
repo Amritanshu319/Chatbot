@@ -81,4 +81,4 @@ The application will open in your browser at:
 - User authentication and profiles.
 ### Author
 
-# Amritanshu Sharma
+# Amritanshu Kumar
