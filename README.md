@@ -1,11 +1,10 @@
 # 🧠 Chat With Gemi
 
 An AI-powered web application built using Python, Streamlit, and Google Gemini API. The application provides two intelligent features:
-
-🤖 AI ChatBot for real-time conversations.
-🖼️ Image Captioning using Google's multimodal Gemini model.
-Features
-🤖 AI ChatBot
+- 🤖 AI ChatBot for real-time conversations.
+- 🖼️ Image Captioning using Google's multimodal Gemini model.
+## Features
+## 🤖 AI ChatBot
 Real-time conversational interface.
 Context-aware responses using Google Gemini AI.
 Session-based chat history.
@@ -80,6 +79,6 @@ Voice input and speech recognition.
 Chat history export.
 Multi-language support.
 User authentication and profiles.
-Author
+# Author
 
 Amritanshu Sharma
