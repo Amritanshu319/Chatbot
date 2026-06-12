@@ -1,4 +1,4 @@
-#🧠 Chat With Gemi
+# 🧠 Chat With Gemi
 
 An AI-powered web application built using Python, Streamlit, and Google Gemini API. The application provides two intelligent features:
 
